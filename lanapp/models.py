@@ -4,7 +4,7 @@ from django.urls import reverse
 
 class Info(models.Model):
     class Meta:
-        verbose_name = "Info"
+        verbose_name = "Malumot"
         verbose_name_plural = "Malumotlar"
 
 
