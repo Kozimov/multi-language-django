@@ -8,4 +8,5 @@ urlpatterns = [
 ] + i18n_patterns(
     path('i18n/', include('django.conf.urls.i18n')),
     path('', include("lanapp.urls")),
+    prefix_default_language=False
 )
