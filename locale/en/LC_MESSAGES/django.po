@@ -20,11 +20,11 @@ msgstr ""
 
 #: .\lanapp\templates\lanapp\index.html:32
 msgid "Sarlavha"
-msgstr ""
+msgstr "TITLE"
 
 #: .\lanapp\templates\lanapp\index.html:33
 msgid "Haqida batafsil"
-msgstr ""
+msgstr "About more"
 
 #: .\multilan\settings.py:108
 msgid "Uzbek"
